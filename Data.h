@@ -19,6 +19,7 @@ using namespace std;
 
 class Data {
 
+    //
     // construct a friend operator to get ostream
     // Overloads the output stream operator. This will be used by the Linked List class to print
     // the contents of a Linked List class (and also any class that inherits it).

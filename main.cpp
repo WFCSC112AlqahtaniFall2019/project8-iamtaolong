@@ -143,7 +143,7 @@ int main() {
     }
 
 
-
+ //
     // use templete to print to stacked
     cout <<  "Writing data in stack inserted at head into stacked.txt." << endl;
     while (!stack.empty()){
